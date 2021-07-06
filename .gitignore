@@ -1,0 +1,9 @@
+# Ignore folder 
+co: img/
+
+# Ignore extension
+Ignore file extension .backup
+# co: *.backup
+
+# Ignore ignore.txt
+Catatan.txt
