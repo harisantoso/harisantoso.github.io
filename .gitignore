@@ -1,5 +1,5 @@
 # Ignore folder 
-co: img/
+img/
 
 # Ignore extension
 Ignore file extension .backup

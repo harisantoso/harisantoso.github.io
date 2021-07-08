@@ -25,3 +25,4 @@ pindahkan scroll animasi
   );
 
 menambahkan .gitignore
+edit gitignore
