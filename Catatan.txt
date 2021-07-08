@@ -23,6 +23,3 @@ pindahkan scroll animasi
     1500,
     "swing"
   );
-
-menambahkan .gitignore
-edit gitignore
