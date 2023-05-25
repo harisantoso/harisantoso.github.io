@@ -1,12 +1,20 @@
 *YANG HARUS DI EDIT
-Saya memiliki background pendidikan Sistem Informasi dan tertarik dalam dunia Teknologi. saya telah menggeluti sejak lulus kuliah hingga sekarang. saya memiliki pengalaman sebagi IT Support, dan saat ini saya sedang mempelajari bahasa pemrograman PHP dengan konsep OOP, MVC, HTML, CSS, JavaScript dan query database dan suka mempelajari teknologi baru. Saya penah membuat website penjualan dengan judul "Perancangan Sistem Informasi Penjualan Alat musik Gitar Berbasis Web pada CV. Aray Musik Cileungsi" sebagai syarat kelulusan.
+Saya memiliki background pendidikan Sistem Informasi dan tertarik dalam dunia Teknologi.
+saya telah menggeluti sejak lulus kuliah hingga sekarang. saya memiliki pengalaman sebagi IT Support,
+dan saat ini saya sedang mempelajari bahasa pemrograman PHP dengan konsep OOP, MVC, HTML, CSS,
+JavaScript dan query database dan suka mempelajari teknologi baru. Saya penah membuat website penjualan
+dengan judul "Perancangan Sistem Informasi Penjualan Alat musik Gitar Berbasis Web pada CV. Aray Musik Cileungsi"
+sebagai syarat kelulusan.
 
-Saya memiliki memiliki pengetahuan tentang hardware, software, CCTV dan jaringan, pengetahuan tentang MySql, SQL Server, bahasa pemrograman PHP, Javascript, bisa admin web, monitoring, support, report sistem aplikasi atau admin website, Terbiasa menggunakan MS Office, instal OS dan merakit PC.
+
+Saya memiliki memiliki pengetahuan tentang hardware, software, CCTV dan jaringan, pengetahuan tentang MySql,
+SQL Server, bahasa pemrograman PHP, Javascript, bisa admin web, monitoring, support, report sistem aplikasi
+atau admin website, Terbiasa menggunakan MS Office, instal OS dan merakit PC.
 
 
- Saya memiliki pengalaman sebagai IT Support, Memiliki pengetahuan tentang hardware, software, CCTV dan
-            jaringan, Pengetahuan tentang bahasa pemrograman PHP, Mysql & JS, Bisa monitoring, support, report sistem
-            aplikasi atau admin website, Terbiasa menggunakan MS Office, instal OS dan merakit PC.
+Saya memiliki pengalaman sebagai IT Support, Memiliki pengetahuan tentang hardware, software, CCTV dan
+jaringan, Pengetahuan tentang bahasa pemrograman PHP, Mysql & JS, Bisa monitoring, support, report sistem
+aplikasi atau admin website, Terbiasa menggunakan MS Office, instal OS dan merakit PC.
 
 
 editor.linkedEditing
