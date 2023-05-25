@@ -10,3 +10,10 @@ Saya memiliki memiliki pengetahuan tentang hardware, software, CCTV dan jaringan
 
 
 editor.linkedEditing
+
+code git:
+git remote -v
+alias graph="git log --all --decorate --oneline --graph"
+
+Keluar dari vim di github:
+kelan esc lalau ketik ":q!"
